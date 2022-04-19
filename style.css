@@ -1,0 +1,111 @@
+/*ESTRUCTURA SOBRE NAVBAR*/
+
+
+#iconos-redes  {
+    margin-left: 1em;    
+}
+
+#loguito {
+    color: #22356d;
+    margin: 0.4em;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+}
+
+.imagen-logo {
+    width: 8em;
+}
+
+#buttons {
+    padding-left: 12em;
+    margin-top: 1.2em; 
+}
+
+#button {
+    background-color: #22356d;
+    color: white;   
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.we-play-the-game {
+    font-size: 0.7em;
+    color: #22356d;  
+    margin-left: 0.3em;  
+}
+
+/*BASTON*/
+
+#baston {
+    background-color: #22356d;
+    
+    border-top-left-radius: 1000em;
+    border-top-right-radius: 1000em;
+}
+
+/*NAVBAR*/
+
+#navbarDropdown {
+    color: #22356d;
+    margin-left: 0.6em;
+    margin-right: 0.6em;
+}
+.navbarbg-custom {
+    background-color: #69dfe2;
+   
+}
+
+#navbar-letra {
+    color: #22356d;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+}
+
+.dropdown-bg {
+    background-color: #22356d;  
+}
+
+#dropdown-custom {
+    color: white;
+    text-decoration: none;
+    margin-left: 2em;       
+}
+
+#lista {
+    margin-left: 0.6em;
+    margin-right: 0.6em;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: center;
+    background-color: #69dfe2;
+    padding-top: 0.5em;
+}
+
+#boton {
+    background-color: #69dfe2;
+}
+
+#lupa {
+    color: #22356d;
+}
+
+/* CAROUSEL */
+
+.leyenda-legible {
+    color: black !important;
+}
+
+.container-carousel {
+    margin-top: 1.5em;
+}
+
+
+/* #navbar-container {
+    margin-left: 23em;
+    margin-top: 1em;
+} */
